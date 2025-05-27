@@ -1,2 +1,2 @@
 # Letras
-Projeto do curso técnico para criar formas de letras usando PHP
+Projeto do curso técnico para criar formas de letras usando for em PHP
