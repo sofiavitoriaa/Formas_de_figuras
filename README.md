@@ -1,5 +1,5 @@
-# Letras
-Projeto do curso técnico para criar formas de letras usando for em PHP
+# Formas
+Projeto do curso técnico para criar formas usando for em PHP
 
 ## Questão 1
 ![image alt](https://github.com/sofiavitoriaa/Letras/blob/main/imagens/1.png)
